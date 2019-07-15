@@ -1,0 +1,23 @@
+{
+  "title": "Material demo",
+  "description": "https://github.com/mui-org/material-ui/blob/master/docs/src/pages/demos/selects/MultipleSelect.js",
+  "dependencies": {
+    "@date-io/moment": "1.0.1",
+    "@material-ui/core": "3.9.1",
+    "@material-ui/icons": "3.0.2",
+    "@material-ui/lab": "3.0.0-alpha.29",
+    "@material-ui/styles": "3.0.0-alpha.9",
+    "ag-grid-angular": "latest",
+    "classnames": "latest",
+    "file-saver": "2.0.0",
+    "material-ui-pickers": "2.1.2",
+    "moment": "2.24.0",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-color": "2.17.0",
+    "react-dom": "latest",
+    "typeface-roboto": "0.0.54"
+  },
+  "keywords": [],
+  "name": "material-ui-form"
+}
